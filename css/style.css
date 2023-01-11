@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    background-color: #2e415a;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+#header-logo {
+    height: 40px;
+    width: auto;
+    display: flex;
+}
+
+.header-links {
+    display: flex;
+    gap: 20px;
+}
+
+.header-links a {
+    text-decoration: none;
+    font-family: "Arial Black", sans-serif;
+    font-size: 18px;
+    color: #e5e7eb;
+}
