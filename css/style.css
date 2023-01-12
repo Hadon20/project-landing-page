@@ -70,6 +70,7 @@ header {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    padding: 60px;
 }
 
 #display-title {
@@ -106,7 +107,7 @@ header {
     font-size: 24px;
     align-items: center;
     justify-content: center;
-    padding: 40px;
+    padding: 60px;
 }
 
 #quote-text {
